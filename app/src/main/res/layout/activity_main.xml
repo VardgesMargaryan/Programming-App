@@ -7,19 +7,20 @@
     android:orientation="vertical"
     android:background="@drawable/background_project"
     tools:context=".MainActivity">
-    <Button
+
+    <TextView
         android:id="@+id/start_logo"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/start_logo"
-        android:textSize="25dp"
-        android:textAlignment="center"
-        android:backgroundTint="@color/green"
-        android:textColor="@color/light_green"
-        android:textStyle="bold"
         android:layout_marginLeft="50dp"
+        android:layout_marginTop="100dp"
         android:layout_marginRight="50dp"
-        android:layout_marginTop="100dp"/>
+        android:fontFamily="@font/aclonica"
+        android:text="@string/start_logo"
+        android:textAlignment="center"
+        android:textColor="@color/dark_green"
+        android:textSize="40dp"
+        android:textStyle="bold" />
     <Button
         android:id="@+id/start_play"
         android:layout_width="match_parent"
