@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vardges/AndroidStudioProjects/MyApplication11/app/src/main/res/drawable/ic_launcher_background.xml" value="0.215" />
         <entry key="..\:/Users/Vardges/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vardges/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_blank.xml" value="0.35597826086956524" />
+        <entry key="..\:/Users/Vardges/AndroidStudioProjects/MyApplication11/app/src/main/res/layout/fragment_start_buttons.xml" value="0.35597826086956524" />
       </map>
     </option>
   </component>
